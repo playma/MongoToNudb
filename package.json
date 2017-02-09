@@ -1,0 +1,23 @@
+{
+  "name": "location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arr-diff": "^3.0.0",
+    "cheerio": "^0.22.0",
+    "commander": "^2.9.0",
+    "mongodb": "^2.2.22",
+    "nodejieba": "^2.2.4",
+    "nudb": "0.0.0",
+    "opencc": "^1.0.4",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
